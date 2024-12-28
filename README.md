@@ -7,7 +7,7 @@ How to compile?
 >
 > Create a project folder using rust
 >
-> copy the cargo.toml and all the files in src to your src folder
+> copy the cargo.toml and all the files to your src folder
 >
 > run "Cargo build --release"
 >
